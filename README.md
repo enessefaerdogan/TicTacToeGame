@@ -1,2 +1,2 @@
 # TicTacToeGame
-İts Coded by me in Netbeans with Java
+İts Coded by me in Netbeans IDE with Java
